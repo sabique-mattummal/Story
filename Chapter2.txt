@@ -1,0 +1,2 @@
+The chapter 2 is idle
+ECHO is on.
